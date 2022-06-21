@@ -9,3 +9,4 @@
     - Resumo de todas locações já finalizadas
     - Dados dos veículos e das locações salvos em arquivos txt
     - Salvamento automático ao sair
+    - Adicionar veículo para locação (em breve)
