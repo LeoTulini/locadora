@@ -37,6 +37,14 @@ class Veiculo:
         print(f'Valor da diária: R${self.valor_diaria}')
         print(f'Valor km rodado: R${self.valor_km_rodado}')
 
+    # def adicionar_veiculo():
+    #     modelo = input('Informe o modelo do veículo: ')
+    #     cor = input('Informe a cor do veículo: ')
+    #     ano = input('Informe o ano do veículo: ')
+    #     odometro = input('Informe o odometro do veículo: ')
+    #     valor_diaria = input('Informe o valor da diaria: ')
+    #     valor_km_rodado = input('Informe o valor por km rodado: ')
+
     @property
     def codigo(self):
         return self._codigo
